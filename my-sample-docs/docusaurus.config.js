@@ -65,9 +65,9 @@ const config = {
     ({
       // Replace with your project's social card
       algolia: {
-        apiKey:'6f4c659dbf94f2fcacbd09084fa88fe',
+        apiKey:'5f9e846db1503cf80491e50c0fe6d700',
         appId:'S3T5OUOZH8',
-        indexName:'My First Application',
+        indexName:'new_business_docs',
         contextualSearch: true
       },
       image: 'img/docusaurus-social-card.jpg',
